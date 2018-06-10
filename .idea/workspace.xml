@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5ff6ec6-1889-43b9-bb29-abb26cc2c20f" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/Fireworks/tool/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/时钟/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fireworks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Fireworks/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Fireworks/index.html">
+        <entry file="file://$PROJECT_DIR$/时钟/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="351">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -49,6 +48,7 @@
       <list>
         <option value="$PROJECT_DIR$/Fireworks/inde.html" />
         <option value="$PROJECT_DIR$/Fireworks/index.html" />
+        <option value="$PROJECT_DIR$/时钟/index.html" />
       </list>
     </option>
   </component>
@@ -82,7 +82,7 @@
             <path>
               <item name="Canvas" type="b2602c69:ProjectViewProjectNode" />
               <item name="Canvas" type="462c0819:PsiDirectoryNode" />
-              <item name="Fireworks" type="462c0819:PsiDirectoryNode" />
+              <item name="时钟" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -103,12 +103,12 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Canvas" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\Canvas" />
       <recent name="F:\Canvas\Fireworks\tool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Canvas" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -123,10 +123,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Canvas/Fireworks/index.html" />
+    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Canvas/时钟/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Canvas/烟花/index.html" />
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -142,12 +151,12 @@
       <option name="presentableId" value="Default" />
       <updated>1528203171287</updated>
       <workItem from="1528203172792" duration="4311000" />
-      <workItem from="1528617980622" duration="236000" />
+      <workItem from="1528617980622" duration="8294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4547000" />
+    <option name="totallyTimeSpent" value="12605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
@@ -241,6 +250,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/时钟/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="43" />
         </state>
       </provider>
     </entry>
